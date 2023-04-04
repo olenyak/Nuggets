@@ -1,6 +1,5 @@
 /*
-  Purple theme by floyare
-  version 0.3
+  Purple theme by olenyak
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Orbitron&display=swap');
@@ -565,11 +564,11 @@ hr{
 }
 
 lol-uikit-tooltip-root{
-  filter: hue-rotate(-131deg) !important;
+  filter: none;
 }
 
 #lol-uikit-tooltip-root > div{
-  filter: hue-rotate(-131deg) !important;
+  filter: none;
 }
 
 .style-profile-sub-nav{
