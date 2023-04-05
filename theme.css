@@ -226,7 +226,7 @@ lol-uikit-full-page-backdrop {
   background-image: url('https://i.ibb.co/3CXDvPk/Purple.png') !important;
   width: 300px !important;
   height: 300px !important;
-  border-right: 500px !important;
+  border-left: 500px !important;
   border-bottom: 100px !important;
 }
 
