@@ -227,11 +227,10 @@ lol-uikit-full-page-backdrop {
   width: 200px !important;
   height: 200px !important;
   position: relative;
-    border-right: 100px solid #9100ff!important;
-    border-left: 10px solid #9100ff!important;
-    border-bottom: 2px solid #9100ff!important;
-    border-top: 2px solid #9100ff!important;
-    box-sizing: border-box;
+    border-right: 100px !important;
+    border-left: 100px !important;
+    border-bottom: 100px !important;
+    border-top: 100px !important;
 }
 
 .lol-loading-screen-container.lol-loading-screen-default-state .lol-loading-screen-status-container{
