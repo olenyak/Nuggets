@@ -224,12 +224,12 @@ lol-uikit-full-page-backdrop {
 
 .lol-loading-screen-lol-icon{
   background-image: url('https://i.ibb.co/3CXDvPk/Purple.png') !important;
-  width: -100px !important;
+  width: -200px !important;
   height: 500px !important;
 }
 
 .lol-loading-screen-container.lol-loading-screen-default-state .lol-loading-screen-status-container{
-  margin-top: 0px !important;
+  margin-top: -70px !important;
 }
 
 .play-button-container{
