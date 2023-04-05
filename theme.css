@@ -227,9 +227,9 @@ lol-uikit-full-page-backdrop {
   width: 300px !important;
   height: 300px !important;
   position: relative;
-    left: 0px;
+    left: 800px;
     right: 800px;
-    top: -175px;
+    top: -150px;
     bottom: 0px;
 }
 
