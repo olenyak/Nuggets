@@ -229,8 +229,8 @@ lol-uikit-full-page-backdrop {
   position: relative;
     left: 0px;
     right: 500px;
-    top: 200px;
-    bottom: 0px;
+    top: 0px;
+    bottom: 200px;
 }
 
 .lol-loading-screen-container.lol-loading-screen-default-state .lol-loading-screen-status-container{
