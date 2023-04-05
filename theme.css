@@ -226,11 +226,8 @@ lol-uikit-full-page-backdrop {
   background-image: url('https://i.ibb.co/3CXDvPk/Purple.png') !important;
   width: 300px !important;
   height: 300px !important;
-  position: relative;
-    border-right: 500px !important;
-    border-left: 50px !important;
-    border-bottom: 100px !important;
-    border-top: 100px !important;
+  border-right: 500px !important;
+  border-bottom: 100px !important;
 }
 
 .lol-loading-screen-container.lol-loading-screen-default-state .lol-loading-screen-status-container{
